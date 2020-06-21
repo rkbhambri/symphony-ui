@@ -1,0 +1,28 @@
+
+
+.content .controls  {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content .controls  label{
+    margin: 0 5px;
+}
+
+.content .controls .lines {
+   margin: 0 30px;
+}
+
+.content table {
+    margin: 50px auto;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
