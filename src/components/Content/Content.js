@@ -4,7 +4,7 @@ import { isEmpty, isArrayNotEmpty } from '../../helpers/miscellenous';
 
 const Content = (props) => {
 
-    const [data, setJson] = useState([]);
+    const [data, setData] = useState([]);
 
     const [controls, setControls] = useState({
         delimiter: ',',
@@ -61,7 +61,7 @@ const Content = (props) => {
                 })
                 .then(body => {
                     console.log('==body==', body.entity)
-                    setJson(body.entity.split('\n'));
+                    setData(body.entity.split('\n'));
                 });
         }
     };
