@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/symphony-ui/static/css/main.3c05a7cb.chunk.css",
+    "main.js": "/symphony-ui/static/js/main.da5349de.chunk.js",
+    "main.js.map": "/symphony-ui/static/js/main.da5349de.chunk.js.map",
+    "runtime-main.js": "/symphony-ui/static/js/runtime-main.fc4c7a30.js",
+    "runtime-main.js.map": "/symphony-ui/static/js/runtime-main.fc4c7a30.js.map",
+    "static/js/2.0688a84c.chunk.js": "/symphony-ui/static/js/2.0688a84c.chunk.js",
+    "static/js/2.0688a84c.chunk.js.map": "/symphony-ui/static/js/2.0688a84c.chunk.js.map",
+    "index.html": "/symphony-ui/index.html",
+    "precache-manifest.5a3c3d9ea8a2307dc34210994748215c.js": "/symphony-ui/precache-manifest.5a3c3d9ea8a2307dc34210994748215c.js",
+    "service-worker.js": "/symphony-ui/service-worker.js",
+    "static/css/main.3c05a7cb.chunk.css.map": "/symphony-ui/static/css/main.3c05a7cb.chunk.css.map",
+    "static/js/2.0688a84c.chunk.js.LICENSE.txt": "/symphony-ui/static/js/2.0688a84c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc4c7a30.js",
+    "static/js/2.0688a84c.chunk.js",
+    "static/css/main.3c05a7cb.chunk.css",
+    "static/js/main.da5349de.chunk.js"
+  ]
+}
